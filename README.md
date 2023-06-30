@@ -25,6 +25,7 @@ It is always a good idea to double check the result!
 The result might contain artefacts.
 WIP so there might still be bugs.
 `bis_fnc_mp` is not supported yet.
+Only customized config entries supported yet.
 
 ## Instructions:
 Launch the executable and follow the instructions in the UI.
