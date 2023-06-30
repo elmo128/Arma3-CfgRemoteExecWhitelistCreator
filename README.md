@@ -24,6 +24,7 @@ You can also write code to your desire, as long as  the result  of `format["A3WL
 It is always a good idea to double check the result!
 The result might contain artefacts.
 WIP so there might still be bugs.
+`bis_fnc_mp` is not supported yet.
 
 ## Instructions:
 Launch the executable and follow the instructions in the UI.
