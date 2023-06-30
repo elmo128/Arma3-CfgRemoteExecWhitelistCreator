@@ -1,4 +1,4 @@
-# Arma3-CfgRemoteExec Whitelist Creator
+# Arma3-remoteExecWhitelistCreator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MSBuild](https://github.com/elmo128/Arma3-remoteExecWhitelistCreator/actions/workflows/msbuild.yml/badge.svg?branch=master)](https://github.com/elmo128/Arma3-remoteExecWhitelistCreator/actions/workflows/msbuild.yml)
@@ -30,4 +30,4 @@ Launch the executable and follow the instructions in the UI.
 Hint: Copy it to your Mission directory to retreive the working directory "automatically".
 
 ## Download sorce:
-https://github.com/elmo128/Arma3-remoteExecWhitelistCreator
+https://github.com/elmo128/Arma3-CfgRemoteExecWhitelistCreator
