@@ -2,7 +2,7 @@
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![MSBuild](https://github.com/elmo128/Arma3-remoteExecWhitelistCreator/actions/workflows/msbuild.yml/badge.svg?branch=master)](https://github.com/elmo128/Arma3-remoteExecWhitelistCreator/actions/workflows/msbuild.yml)
-[![Handle Release](https://github.com/elmo128/Arma3-CfgRemoteExecWhitelistCreator/actions/workflows/release.yml/badge.svg)](https://github.com/elmo128/Arma3-CfgRemoteExecWhitelistCreator/actions/workflows/release.yml)
+[![Release](https://github.com/elmo128/Arma3-CfgRemoteExecWhitelistCreator/actions/workflows/release.yml/badge.svg)](https://github.com/elmo128/Arma3-CfgRemoteExecWhitelistCreator/actions/workflows/release.yml)
 
 ## Purpose
 Automatic creation of a whitelist for remote execution from the gamefiles, supported by logs and the existing config.
