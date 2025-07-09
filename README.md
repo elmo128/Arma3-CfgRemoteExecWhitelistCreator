@@ -1,7 +1,7 @@
 # Arma3-remoteExecWhitelistCreator
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![MSBuild](https://github.com/elmo128/Arma3-remoteExecWhitelistCreator/actions/workflows/msbuild.yml/badge.svg?branch=master)](https://github.com/elmo128/Arma3-remoteExecWhitelistCreator/actions/workflows/msbuild.yml)
+[![MSBuild](https://github.com/elmo128/Arma3-CfgRemoteExecWhitelistCreator/actions/workflows/msbuild.yml/badge.svg)](https://github.com/elmo128/Arma3-CfgRemoteExecWhitelistCreator/actions/workflows/msbuild.yml)
 [![Release](https://github.com/elmo128/Arma3-CfgRemoteExecWhitelistCreator/actions/workflows/release.yml/badge.svg)](https://github.com/elmo128/Arma3-CfgRemoteExecWhitelistCreator/actions/workflows/release.yml)
 
 ## Purpose
